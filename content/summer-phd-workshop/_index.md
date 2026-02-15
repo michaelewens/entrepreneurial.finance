@@ -16,9 +16,13 @@ type: default
 
 **Supporting institutions**: Imperial College, WEFI, and RCEA
 
+{{< callout type="info" >}}
+**[Apply Here by January 15th](https://columbia.az1.qualtrics.com/jfe/form/SV_3ZOOIUFzNSvgTFY)**
+{{< /callout >}}
+
 ## Description
 
-This week-long workshop follows the structure of the Entrepreneurial Finance PhD course with several modifications. The inaugural workshop was held in August 2024 at Imperial College and the second in 2025. The program covers major topics from the 6-week in-person course and highlights key institutional details required for successful entrepreneurial finance research. Several sessions focus on research methodology, key databases, opportunities to present ideas, and live data analysis examples. This workshop is **not** a substitute for the NBER Entrepreneurship Bootcamp.
+This week-long workshop follows the structure of the Entrepreneurial Finance PhD course described on this website with several modifications. The inaugural workshop was held in August 2024 at Imperial College ([past program here](/summer-phd-workshop-2024/)) and the second was held in 2025 ([past program here](/summer-phd-workshop-2025/)). The program covers major topics from the 6-week in-person course and highlights key institutional details required for successful entrepreneurial finance research. Several sessions focus on research methodology, key databases, opportunities to present ideas, and live data analysis examples. This workshop is **not** a substitute for the NBER Entrepreneurship Bootcamp. See the [2025 program](/summer-phd-workshop-2025/) for a preview of the format and content.
 
 **Lectures led by:**
 - Michael Ewens (Columbia)
