@@ -1,0 +1,48 @@
+baseURL = 'https://entrepreneurial.finance/'
+languageCode = 'en-us'
+title = 'Entrepreneurial Finance'
+
+[module]
+  [[module.imports]]
+    path = "github.com/imfing/hextra"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  description = "A PhD course at Columbia Business School"
+
+  [params.navbar]
+    displayTitle = true
+    displayLogo = false
+
+  [params.footer]
+    displayCopyright = false
+    displayPoweredBy = false
+
+[params.footer.content]
+  copyright = "© 2026 Michael Ewens"
+
+  [params.page]
+    width = "wide"
+
+[menu]
+  [[menu.main]]
+    name = "Syllabus"
+    url = "/syllabus/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Course Structure"
+    url = "/course-structure/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Institutional Details"
+    url = "/institutional-details/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Summer PhD Workshop"
+    url = "/summer-phd-workshop/"
+    weight = 4
