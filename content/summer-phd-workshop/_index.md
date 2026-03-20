@@ -1,6 +1,8 @@
 ---
 title: Summer PhD Workshop on Entrepreneurial Finance
 type: default
+aliases:
+  - /summer/
 ---
 
 ## Overview
