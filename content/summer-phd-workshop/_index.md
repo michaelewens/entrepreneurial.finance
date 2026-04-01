@@ -149,13 +149,13 @@ Random student pairing for introductions and research project presentations (5 m
 
 ### Thursday, June 11th
 
-#### 9:00 am -- 10:30 am: Institutional details session
-*Lecture, Mike*
-
-#### 10:30 am -- 12:00 pm: Referee report discussion
-*Lecture, Mike*
+#### 9:00 am -- 10:30 am: Entrepreneurship and aggregate productivity
+*Lecture, Francisco*
 
 **Break**
+
+#### 11:00 am -- 12:00 pm: Institutional details session
+*Lecture, Mike*
 
 **Lunch: 12:30 -- 2:00 pm** (Individual)
 
