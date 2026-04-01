@@ -90,8 +90,13 @@ Random student pairing for introductions and research project presentations (5 m
 
 ### Tuesday, June 9th
 
-#### 9:00 am -- 10:30 am
+#### 9:00 am -- 10:30 am: Who are entrepreneurs?
 *Lecture, Rui*
+
+**Readings:**
+- Bell, A., Chetty, R., Jaravel, X., Petkova, N., & Van Reenen, J. (2019). "Who Becomes an Inventor in America? The Importance of Exposure to Innovation." *The Quarterly Journal of Economics*, 134(2), 647-713.
+- Hvide, H.K. & Oyer, P. (2018). "Dinner Table Human Capital and Entrepreneurship." NBER Working Paper.
+- Hvide, H.K. & Oyer, P. (2025). "Who Becomes a Successful Entrepreneur? The Role of Early Industry Exposure." *The Review of Economics and Statistics*.
 
 **Break**
 
@@ -99,8 +104,12 @@ Random student pairing for introductions and research project presentations (5 m
 
 **Lunch: 12:30 -- 2:00 pm** (Individual)
 
-#### 2:00 -- 3:30 pm
+#### 2:00 -- 3:30 pm: Who are entrepreneurs? (cont.)
 *Lecture, Rui*
+
+**Readings:**
+- Azoulay, P., Jones, B.F., Kim, J.D., & Miranda, J. (2020). "Age and High-Growth Entrepreneurship." *American Economic Review: Insights*, 2(1), 65-82.
+- Moser, P. (2021). "Inequality in Science: Who Becomes a Star?" Working Paper.
 
 **Break**
 
