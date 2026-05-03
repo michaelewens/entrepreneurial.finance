@@ -121,7 +121,7 @@ Random student pairing for introductions and research project presentations (5 m
 - Gompers, Paul A., Will Gornall, Steven N. Kaplan, and Ilya A. Strebulaev. "How do venture capitalists make decisions?" *Journal of Financial Economics* 135, no. 1 (2020): 169-190.
 - Hsu, D. H. (2004). "What do entrepreneurs pay for venture capital affiliation?" *The Journal of Finance*, 59(4), 1805-1844.
 
-**Group dinner: TBD**
+**Group dinner: 7:00 pm** at [Via Graça](https://maps.app.goo.gl/gqyqtB3iSARjAjYr7), R. Damasceno Monteiro 9 b, 1170-108 Lisboa
 
 ---
 
