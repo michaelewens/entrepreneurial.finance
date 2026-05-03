@@ -49,7 +49,7 @@ Students past their second year of PhD programs in economics, finance, strategy,
 
 ## Daily Program
 
-Each day includes approximately 6 hours of class sessions, lunch, and two group dinners (Tuesday and Friday).
+Each day includes approximately 6 hours of class sessions, lunch, and two group dinners (Tuesday and Thursday).
 
 ### Monday, June 8th
 
