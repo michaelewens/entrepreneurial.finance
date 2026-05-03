@@ -170,7 +170,7 @@ Random student pairing for introductions and research project presentations (5 m
 - Kaplan, S.N. and Strömberg, P. (2004) "Characteristics, Contracts, and Actions: Evidence from Venture Capitalist Analyses," *The Journal of Finance*, 59(5), pp. 2177-2210.
 - Robb, A.M. and Robinson, D.T. (2014) "The Capital Structure Decisions of New Firms," *The Review of Financial Studies*, 27(1), pp. 153-179.
 
-**Group dinner: 7:00 pm** (location TBD)
+**Group dinner: 7:00 pm** at [Casa da Dízima](https://maps.app.goo.gl/RahULTtCWy9Wue5H7), R. Costa Pinto 17, 2770-046 Paço de Arcos
 
 ---
 
