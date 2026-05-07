@@ -9,7 +9,7 @@ aliases:
 
 **Dates**: Monday, June 8th to Friday, June 12th, 2026
 
-**Location**: Nova School of Business and Economics (Nova SBE), Lisbon, Portugal
+**Location**: Nova SBE Haddad Entrepreneurship Institute (floor zero), Nova School of Business and Economics, Lisbon, Portugal
 
 **Co-organizers**:
 - Michael Ewens (Columbia Business School and NBER)
