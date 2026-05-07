@@ -49,6 +49,8 @@ Students past their second year of PhD programs in economics, finance, strategy,
 
 ## Daily Program
 
+All sessions are held at the **Nova SBE Haddad Entrepreneurship Institute (floor zero)** unless otherwise noted (e.g., group dinners).
+
 Each day includes approximately 6 hours of class sessions, lunch, and two group dinners (Tuesday and Thursday).
 
 ### Monday, June 8th
