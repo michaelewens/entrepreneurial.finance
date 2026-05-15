@@ -12,8 +12,8 @@ aliases:
 **Location**: Nova SBE Haddad Entrepreneurship Institute (floor zero), Nova School of Business and Economics, Lisbon, Portugal
 
 **Co-organizers**:
-- Michael Ewens (Columbia Business School and NBER)
-- Gilles Chemla (Imperial College, CNRS, and CEPR)
+- [Michael Ewens](https://michaelewens.com) (Columbia Business School and NBER)
+- [Gilles Chemla](https://profiles.imperial.ac.uk/g.chemla) (Imperial College, CNRS, and CEPR)
 - Local organizer: Miguel Ferreira (Nova SBE)
 
 **Supporting institutions**: Imperial College, WEFI, and RCEA
