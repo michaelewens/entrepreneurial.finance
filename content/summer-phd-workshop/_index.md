@@ -169,6 +169,11 @@ Random student pairing for introductions and research project presentations (5 m
 #### 9:00 am -- 10:30 am: Entrepreneurship and aggregate productivity
 *Lecture, Francisco*
 
+**Readings:**
+- Lucas, R.E., Jr. (1978). "On the Size Distribution of Business Firms." *The Bell Journal of Economics*, 9(2), 508-523.
+- Queiró, F. (2022). "Entrepreneurial Human Capital and Firm Dynamics." *The Review of Economic Studies*, 89(4), 2061-2100.
+- Engbom, N., Malmberg, H., Porzio, T., Rossi, F., & Schoellman, T. (2025). "Economic Development According to Chandler." NBER Working Paper No. 34483.
+
 **Break**
 
 #### 11:00 am -- 12:00 pm: Institutional details session
