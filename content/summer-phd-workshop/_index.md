@@ -132,15 +132,30 @@ Random student pairing for introductions and research project presentations (5 m
 #### 9:00 am -- 10:30 am: Causal inference in entrepreneurial finance
 *Lecture, Gilles*
 
+**Readings:**
+- Banerjee, A., & Deaton, A. (2012). "Session III: Searching for answers with randomized experiments" [Video]. YouTube. https://www.youtube.com/watch?v=2Js-AxZcmr8
+- Bowen III, D.E., Frésard, L., & Taillard, J.P. (2017). "What's your identification strategy? Innovation in corporate finance research." *Management Science*, 63(8), 2529-2548.
+- Hennessy, C.A., & Chemla, G. (2022). "Signaling, instrumentation, and CFO decision-making." *Journal of Financial Economics*, 144(3), 849-863.
+
 **Break**
 
-#### 11:00 am -- 12:30 pm: Crowdfunding
+#### 11:00 am -- 12:30 pm: Crowdfunding and tokenization
 *Lecture, Gilles*
+
+**Readings:**
+- Chemla, G., & Tinn, K. (2020). "Learning through crowdfunding." *Management Science*, 66(5), 1783-1801.
+- Li, J., & Mann, W. (2025). "Digital tokens and platform building." *The Review of Financial Studies*, 38(7), 1921-1954.
+- Chemla, G., & Tinn, K. (2026). "Digital Ownership: The Tokenization of Real-World Assets." SSRN 6693219.
 
 **Lunch: 12:30 -- 2:00 pm** (Individual)
 
-#### 2:00 pm -- 3:15 pm: AI and tokenization
+#### 2:00 pm -- 3:15 pm: AI in entrepreneurial finance
 *Lecture, Gilles*
+
+**Readings:**
+- Bonelli, M. (2025). "Data-driven investors." *The Review of Financial Studies*.
+- Gupta, A., Qian, F., Simintzi, E., & Sun, Y. (2025). "Generative AI and Entrepreneurship." SSRN 5971474.
+- Chemla, G., & Tena, V. (2025). "AI Adoption, Incentives, and Firm Value in General Equilibrium." SSRN 5997775.
 
 **Break**
 
