@@ -14,9 +14,9 @@ aliases:
 **Co-organizers**:
 - [Michael Ewens](https://michaelewens.com) (Columbia Business School and NBER)
 - [Gilles Chemla](https://profiles.imperial.ac.uk/g.chemla) (Imperial College, CNRS, and CEPR)
-- Local organizer: Miguel Ferreira (Nova SBE)
+- Local organizer: [Miguel Ferreira](https://www.miguelferreirafinance.com) (Nova SBE)
 
-**Supporting institutions**: Imperial College, WEFI, and RCEA
+**Supporting institutions**: [Imperial College](https://www.imperial.ac.uk/business-school/faculty-research/departments/finance/), [WEFI](https://workshop-efi.com/), and [RCEA](https://www.rcea.org/)
 
 {{< callout type="info" >}}
 **[Apply Here by January 15th](https://columbia.az1.qualtrics.com/jfe/form/SV_3ZOOIUFzNSvgTFY)**
