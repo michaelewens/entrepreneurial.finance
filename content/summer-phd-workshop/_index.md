@@ -78,7 +78,7 @@ Random student pairing for introductions and research project presentations (5 m
 - Cagetti, Marco, and Mariacristina De Nardi. "Entrepreneurship, frictions, and wealth." *Journal of Political Economy* 114.5 (2006): 835-870.
 - Hombert, J., Schoar, A., Sraer, D., & Thesmar, D. (2020). "Can unemployment insurance spur entrepreneurial activity? Evidence from France." *The Journal of Finance*, 75(3), 1247-1285.
 
-**Break**: Volunteers for student idea pitch sessions
+**Break**
 
 #### 3:45 -- 5:00 pm: Housing and banks
 *Lecture, Mike*
@@ -103,6 +103,13 @@ Random student pairing for introductions and research project presentations (5 m
 **Break**
 
 #### 11:00 am -- 12:30 pm: Student idea pitch sessions
+
+| Time | Presenter |
+|------|-----------|
+| 11:00 -- 11:20 | Simone Ricci |
+| 11:20 -- 11:40 | Rishabh Malhotra |
+| 11:40 -- 12:00 | Xinyu Cao |
+| 12:00 -- 12:20 | Ilias Chiboub |
 
 **Lunch: 12:30 -- 2:00 pm** (Individual)
 
@@ -161,6 +168,13 @@ Random student pairing for introductions and research project presentations (5 m
 
 #### 3:45 pm -- 5:00 pm: Student pitch session
 *Activity, Gilles and Mike*
+
+| Time | Presenter |
+|------|-----------|
+| 3:45 -- 4:05 | Morteza Aghajanzadeh |
+| 4:05 -- 4:25 | Hugues Pouget |
+| 4:25 -- 4:45 | Ali Bahramisani |
+| 4:45 -- 5:00 | Fiammetta Grieco Cinquegrana |
 
 ---
 
