@@ -67,7 +67,7 @@ Each day includes approximately 6 hours of class sessions, lunch, and two group 
 #### 11:00 am -- 12:30 pm: Idea pairing meet-greet and institutional details
 *Lecture, Mike*
 
-Random student pairing for introductions and research project presentations (5 minutes each pair, repeat 3 times)
+Pair-share activity
 
 **Lunch: 12:30 -- 2:00 pm** (hosted by Nova SBE)
 
@@ -195,7 +195,12 @@ Random student pairing for introductions and research project presentations (5 m
 
 **Lunch: 12:30 -- 2:00 pm** (Individual)
 
-#### 2:00 pm -- 3:30 pm: Group activity and discussion
+#### 2:00 pm -- 3:30 pm: Open topics session
+*Activity, Mike*
+
+Two topics chosen from the pre-workshop student interest survey:
+1. Pruning research ideas
+2. Finding co-authors
 
 **Break**
 
@@ -212,12 +217,12 @@ Random student pairing for introductions and research project presentations (5 m
 
 ### Friday, June 12th
 
-#### 9:00 -- 11:00 am: Gender and race in entrepreneurial finance, field direction, course wrap-up
+#### 9:00 -- 11:00 am: Retail investors in private equity and the future of entrepreneurial finance
 *Lecture, Mike*
 
 **Readings:**
-- Ewens, M. (2023). "Gender and race in entrepreneurial finance." *Handbook of the Economics of Corporate Finance: Private Equity and Entrepreneurial Finance*, 239.
-- Bohren, J. Aislinn, Alex Imas, and Michael Rosenberg. "The dynamics of discrimination: Theory and evidence." *American Economic Review* 109, no. 10 (2019): 3395-3436.
+- Balloch, C., Mainardi, F., Oh, S., & Vokata, P. (2025). "Democratizing Private Markets: Private Equity Performance of Individual Investors."
+- Ewens, M., & Faber, J. "Liquid Claims on Illiquid Assets: The Economics of Retail Access to Private Markets." Working paper.
 
 **Workshop end**
 
